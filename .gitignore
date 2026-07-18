@@ -1,0 +1,12 @@
+# This repo is a UPM package (not a full Unity project). Keep it clean.
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# If ever opened inside a throwaway Unity project for testing, ignore its junk.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
