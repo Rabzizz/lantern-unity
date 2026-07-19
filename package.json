@@ -1,8 +1,8 @@
 {
   "name": "ch.abyss-inn.lantern.unity",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "displayName": "Lantern for Unity Localization",
-  "description": "Pull translations from a Lantern project (lantern.abyss-inn.ch) straight into Unity's official Localization String Table Collections. One-click import from the read API — no manual CSV files, no bespoke runtime.",
+  "description": "Sync translations between a Lantern project (lantern.abyss-inn.ch) and Unity's official Localization String Table Collections. One-click pull from the read API and push back via the write API — no manual CSV files, no bespoke runtime.",
   "unity": "2020.3",
   "documentationUrl": "https://github.com/Rabzizz/lantern-unity",
   "changelogUrl": "https://github.com/Rabzizz/lantern-unity/blob/main/CHANGELOG.md",
